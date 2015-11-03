@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<ul id="list">
+    <li>list 1</li>
+    <li>list 2</li>
+    <li>list 3</li>
+    <li>list 4</li>
+</ul>
+<button id="lstB">List black</button>
+<button id="ulR">ul red</button>
+<button id="clear">empty</button>
+<script src="../jquery-1.11.3.js"></script>
+<script>
+        $("#list").css("color","red");
+        $("#clear").on("click", function () {
+            $("#list").empty();
+
+        })
+
+</script>
+</body>
+</html>

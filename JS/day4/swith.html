@@ -1,0 +1,160 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+<script>
+	function Print(a)
+	{
+		document.write(a);	
+	}
+</script>
+<script>
+	/*var input = prompt("entry number 3 or 5");
+	var num = input%3;
+	var num1;
+	if(input%3 == 0 && input%5 != 0)
+	{
+		Print("foo");
+	}
+	else if(input%5 ==0 && input%3 != 0)
+	{
+		Print("bar");
+	}
+	else if(input%5 ==0 && input%3 == 0)
+	{
+		Print("foo & bar");	
+	}
+	else
+		Print("none of choice");*/
+	
+	/*switch(num1)
+	{
+		case 1:
+			Print("foo");
+			break;
+		case 2:
+			Print("bar");
+			break;
+		case 3:
+			Print("foo & bar");	
+		case 4:
+			Print("none of choice");
+	}
+	*/
+
+/*
+	for(var i=1; i<=10;i++)
+	{
+		if(i == 3)
+		{
+			Print(i);
+			break;	
+		}	
+		Print(i+"<br>");
+	}
+	Print("<br>");
+	 
+	function loop()
+	{
+		for(var i=1;i<100;i++)
+		{
+			if(i == 50)
+			{
+				Print(i+", ");	
+			}
+			else if(i == 75)
+			{
+				Print(i+", ");
+				break;	
+			}
+		}
+	}
+	loop();
+	*/
+	// for signal argument
+	/*
+	function demo(a)
+	{
+		Print(a);	
+		
+	}
+	demo(1);
+	demo("abc");
+	
+	function demo(a)
+	{
+		return a;	
+	}
+	var p = demo(100);
+	Print(p);		
+	*/
+	/*
+	p = 1;
+	function sum(a)
+	{
+		a=a+p;
+		x=10;
+		return a;	
+	}
+	var pp = sum(10)	
+	Print(pp +"<br>");
+	Print(x);*/
+	
+	
+	/*
+	function multiplication(a,b)
+	{
+		return a*b;
+	}
+	function division(a,b)
+	{
+		return a/b;	
+	}
+	function subtation(a,b)
+	{
+		return a-b;	
+	}
+	Print(multiplication(10,11)+"<br>");
+	Print(division(100,10)+"<br>");
+	Print(subtation(10,11)+"<br>");
+*/
+
+/*
+function check(a)
+{
+	if(a%2 == 0)
+	{
+		Print("event"+"<br>");
+	}
+	else
+	{
+		Print("odd"+"<br>");
+	}
+	
+	return a;	
+}
+var p = check(prompt("enter your number"));
+Print(p);
+*/
+
+
+function testThrow()
+{
+	var e = document.getElementById("txt").value;
+	if(e == "")
+	{
+		throw("input some number please");	
+	}
+	
+}
+
+</script>
+
+
+
+</body>
+</html>

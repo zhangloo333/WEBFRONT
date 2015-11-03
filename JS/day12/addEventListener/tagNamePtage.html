@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<div>div1</div>
+<div>div2</div>
+<div>div3</div>
+<div>div4</div>
+<div>div5</div>
+<button>chang color</button>
+<script>
+    var div = document.getElementsByTagName('div');
+
+    document.getElementsByTagName("button")[0].onclick= function(){
+            alert("1");
+//            var div = document.getElementsByTagName('div');
+            div[1].style.backgroundColor = "red";
+              div[3].style.backgroundColor = "red";
+    }
+
+</script>
+</body>
+</html>

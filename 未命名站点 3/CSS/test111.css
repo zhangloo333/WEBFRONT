@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#warrper,body,div,p{margin:0;padding:0;}
+#warrper{
+	width:1000px;
+	height:1200px;
+	background:#CBBC19;
+	margin: 100px auto;
+	}
+#head{
+		width:100%;
+		height:200px;
+		background:#DE1518;
+	}
+#left{
+		width:30%;
+		height:1000px;
+		background:#D5E4DC;
+		float:left;
+	}
+#right{
+	width:70%;
+	height:1000px;
+	background:#951CC6;
+	float:left;
+	}
+ul{
+	list-style:none;
+	}
+li{
+	padding-top:100px;
+	}
+#right p{
+		
+		padding:50px;
+	}
+ifname{
+ border-top:#C00000 1px dotted;
+ 
+
+
+;}

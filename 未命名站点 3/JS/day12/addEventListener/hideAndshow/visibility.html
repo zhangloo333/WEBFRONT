@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<img src="350.JPG"
+     style="width: 495px; height: 326px;" id="pic1">
+<img src="anoceanofsky.jpg"
+     style="width: 495px; height: 326px;" id="pic2"><br>
+<button onclick="show1()">SHOW PIC1</button>
+<button onclick="show2()">SHOW PIC2</button>
+<button onclick="showall()">SHOW BOTH</button>
+<button onclick="hide()">HIDE BOTH</button>
+<button onclick="replace()">REPLACE</button>
+<script>
+    var a = document.getElementById("pic1");
+    function show1(){
+        a.style.visibility = "visible";
+        document.getElementById("pic2").style.visibility = "hidden";
+    }
+    function show2(){
+        a.style.visibility = "hidden";
+        document.getElementById("pic2").style.visibility = "visible";
+    }
+    function showall(){
+        a.style.visibility = "visible";
+        document.getElementById("pic2").style.visibility = "visible";
+    }
+    function hide(){
+        a.style.visibility = "hidden";
+        document.getElementById("pic2").style.visibility = "hidden";
+    }
+    function replace(){
+
+        if (a.src.match("350.JPG") == "350.JPG") {
+            alert(a.src.match("35.JPG"));
+            a.src = "anoceanofsky.JPG";
+            document.getElementById("pic2").src="350.JPG";
+        } else {
+            a.src = "350.JPG";
+            document.getElementById("pic2").src="anoceanofsky.JPG";
+        }
+    }
+</script>
+</body>
+</html>

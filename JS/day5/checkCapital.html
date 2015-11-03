@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+
+input letter:<input type="text" id="L1"/><br/>
+<button id="up"  onClick="beUpper()">Uppercase</button>
+<button id="lower" onClick="beLow()">lowerCase</button><br/>
+<textarea rows="1" cols="10" id="tx1"></textarea>
+<p id="eee"></p>
+
+
+<script>
+
+		function beUpper()
+		{
+			var s =document.getElementById("L1").value;
+
+			document.getElementById("tx1").innerHTML = s.toUpperCase();
+		}
+		function beLow()
+		{
+			var s =document.getElementById("L1").value;
+
+			var Smal= s.toLowerCase();
+			document.getElementById("tx1").innerHTML = Smal;
+		}
+
+/*
+	var text="ABCDEFG";
+	var p =text.toUpperCase()
+	var s= text.toLowerCase();
+	alert(s);
+	document.write(s);
+*/
+</script>
+
+
+</body>
+</html>

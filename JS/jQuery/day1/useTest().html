@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+
+<div id="divtext">this is a text in a div</div>
+<button id="btn">show</button>
+<button id="btn1">show</button>
+<button id="btn2">show imgae</button>
+<div id="show"></div>
+
+<script src="../jquery-1.11.3.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#btn").on("click",changContent);
+        $("#btn1").on("click", function () {
+            $("#divtext").text("<b>text change<b>");
+
+        });
+        $("#btn2").on("click", function () {
+            $("#show").html("<img src='Logo.png'>");
+        });
+    });
+
+    function changContent()
+    {
+
+        //$("#divtext").text("text change");
+     $("#divtext").html("<b>text change</b>");
+
+    }
+</script>
+</body>
+</html>

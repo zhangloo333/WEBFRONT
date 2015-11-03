@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+
+</head>
+
+<body>
+    <form>
+        name:<input type="text" id="txt" name="text"><br>
+        <button id="but" onClick="show()"> button</button>
+    </form>
+    
+	<script>
+	/*
+		function Print(p)
+		{
+			document.write(p);
+		}
+	*/
+		function show()
+		{
+			var p =document.getElementById("txt").value;
+			console.log(p);
+			alert(p);
+		} 
+
+    </script>
+
+</body>
+</html>

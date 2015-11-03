@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+<script>
+fruit=["mango","apple","banan"];
+//fruit.pop();
+alert(fruit.pop());//alert the remove element
+alert(fruit);//alert the rest of element
+document.write(fruit);
+</script>
+<h1>remove 3 number</h1>
+<script>
+	var num =[1,2,3,4,5,6,7,8,9,10];
+	for(var i=0;i<num.length;i++)
+	{
+		num.pop();	
+	}
+	document.write(num);//because the num.length also change 
+</script>
+<h3>解决的方法</h3>
+<script>
+	var num1 =[1,2,3,4,5,6,7,8,9,10];
+	var last = num.length-1;
+	for(var last;i>=0;i--)
+	{	
+		num1.pop();	
+	}
+		document.write(num1);
+
+</script>
+
+<h3>print array</h3>
+<script>
+	var p=["a","b","hello","hi","2"];
+	for(i=0;i<3;i++)
+	{
+		p.pop();			
+	}
+	document.write(p+"<br/>");
+</script>
+<script>
+	var p1=["a","b","hello","hi","2"];
+/*	while(p1.length!=0)
+	{
+		document.writeln(p1.pop());
+	}
+ */
+	for(var last=p1.length;i>=0;i--)
+	{
+		document.writeln(p1.pop());
+	}
+ 
+</script>
+</body>
+</html>

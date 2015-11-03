@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="Jquery1.css">
+</head>
+<body>
+<p id="p1" class="pasa"> asdasdasd
+   my page</p>
+
+<button id="btn1">show</button>
+<script src="../jquery-1.11.3.js"></script>
+<script>
+    $(document).ready(
+            function () {
+                $("#btn1").on("click",getContent);
+            }    );
+
+    function abc() {
+                    $("#p1").hide(1000).show(1000);
+                }
+    function getContent()
+    {
+        $("#p1").html("change text");
+      var k=  $("#p1").html();
+
+        console.log("assssssss");
+       // alert(k);
+        //document.write(k);
+
+    }
+
+    function showCssInfor()
+    {
+
+        $("#p1").css("")
+
+    }
+
+</script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+<input type="text" id="txt1">
+<input type="text" id="txt2">
+<button onClick="length()">button</button>
+<p id="result"></p>
+<p id="result1"></p>
+<script>
+function length()
+{
+	var str = new Array();
+	str[0]=document.getElementById("txt1").value;
+	str[1]= document.getElementById("txt2").value;
+	document.getElementById("result").innerHTML=str[0].length;
+	document.getElementById("result1").innerHTML=str[1].length;
+
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+#box1{	border: 3px solid blue;position: relative; 
+		top:0px;left:200px; height:500px;width:900px;
+		}
+
+#box2{
+	border: 3px solid #fe5b64;
+	height:50px;width:50px;
+	position: relative;
+	top:0px;
+	left:150px;
+
+}
+#box3{
+		border: 3px solid #184FA0;
+		height:300px;width:200px;
+		position: relative;
+		top:0px;
+		left:150px;
+	}
+#box4{
+		border: 3px solid #24BB46;
+		height:300px;width:200px;
+		position: inherit;
+		top:inherit;
+		left:inherit;
+		
+	}

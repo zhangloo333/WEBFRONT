@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+frist:<input type="text" id="first">
+second:<input type="text" id="second"><br/>
+<button onClick="check()">CHECK</button>
+<script>
+	function check()
+	{
+		var array = new Array();
+		array[0] = document.getElementById("first").value;
+		array[1] = document.getElementById("second").value;
+		if(array[0].charAt(5) == array[1].charAt(2))
+		{
+			alert("true");	
+		}
+		else
+		{
+			alert("flase");
+		}		
+	}
+</script>
+</body>
+</html>

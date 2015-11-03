@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+
+<h3>Frist Name:<input type="text" id="fist"/></h3>
+<h3>Last Name:<input type="text" id="last"/></h3>
+<h3>Address:<input type="text" id="address"/></h3>
+<h3>Phone:<input type="text" id="phone"/></h3>
+<button onClick="wirte()"> show </button>
+<p id="result"></p>
+<script>
+		function wirte()
+		{
+			var a,b,c,d,f;
+			a = "Frist name:\t"+document.getElementById("fist").value;	
+			b = "last name:\t "+document.getElementById("last").value;
+			c = "address:\t"+document.getElementById("address").value;
+			d = "phone:\t "+document.getElementById("phone").value;
+			f = a+"<br/>"+b+"<br/>"+c+"<br/>"+d+"<br/>";
+			document.getElementById("result").innerHTML = f;
+
+		}
+
+</script>
+
+
+
+</body>
+</html>

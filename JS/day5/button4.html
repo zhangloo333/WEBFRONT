@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+    	num1: <input type="text" id="num1" placeholder="first number"><br/>
+        mum2:<input type="text" id="num2" placeholder="second number"><br/>
+        <button onClick="multiplication()">multilile</button>
+        <button onClick="division()">division</button>
+        <button onClick="subtation()">Submit</button>
+        <button onClick="add()">add</button>
+
+        <p><textarea id="output" rows="2" cols="10"></textarea></p>
+
+	<script>
+		function getID(p)
+		{
+			return document.getElementById(p).value;
+		}
+		
+	
+		function multiplication()
+		{
+			document.write(parseInt(getID("num1"))*parseInt(getID("num2")));
+		}
+		function division()
+		{
+			var a = parseInt(document.getElementById("num1").value);
+			var b = parseInt(document.getElementById("num2").value);
+			var p =a/b;
+			document.getElementById("output").innerHTML = p;
+
+		}
+		function subtation()
+		{
+			document.write(parseInt(getID("num1"))-parseInt(getID("num2")));
+		}
+		function add()
+		{
+			document.write(parseInt(getID("num1"))+parseInt(getID("num2")));
+		}
+        
+    </script>
+</body>
+</html>

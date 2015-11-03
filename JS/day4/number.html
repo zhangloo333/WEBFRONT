@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+<script>
+	function Print(a)
+	{
+		document.write(a);	
+	}
+</script>
+
+<script>
+	try{
+		function add(a,b)
+		{
+			return a+b;
+		}
+	
+	var p = add(parseInt(prompt("enter your number")),parseInt(prompt("enter your number")));
+	Print(p);
+	}
+	catch(err)
+	{
+		alert(err);
+		}
+
+</script>
+
+
+</body>
+</html>

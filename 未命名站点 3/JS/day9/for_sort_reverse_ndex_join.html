@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+<h3>for loop</h3>
+<script>
+	names =["nnnn","a","hhh","ee","mmm"];
+	/*
+	for(var i=0;i<names.length;i++)
+	{
+		document.write(names[i]+"<br/>");
+	}
+	*/
+</script>
+<h3>sort</h3>
+<script>
+	console.log(names.sort());//升序排列
+
+		console.log(names.sort(function(a,b)
+		{
+			return b-a;	
+		}
+		))
+
+</script>
+<h3>reverse</h3>
+<script>
+	names1 =["a","pe","jo","sa","ke"];
+	document.write(names1.reverse());
+</script>
+
+
+
+<h3>join</h3>
+<script>
+	var greating1 = "welcom";
+	var gar1 = greating1.split("");
+	document.write(gar1);
+	var jary=gar1.join("");//must have ""
+	document.write("<br/>");
+	document.write(jary);
+</script>
+
+
+<h3>reverse word use split and join </h3>
+<script>
+	var str2="morning";
+	document.write(str2+"<br/>");
+	var spliStr=str2.split("");
+	document.write(spliStr+"<br/>");
+	spliStr = spliStr.reverse();
+	document.write(spliStr+"<br/>");
+	spliStr=spliStr.join("");
+		document.write(spliStr);
+
+
+
+
+</script>
+
+
+<h3>reverse word without split</h3>
+<script>
+	var str="morning";
+	for(i=str.length-1;i>=0;i--)
+	{
+		document.write(str.charAt(i));
+	}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<input id="inpu1" type="text"/>
+<input id="inpu2" type="text"/>
+<input id="inpu3" type="text"/>
+<input id="inpu4" type="text"/>
+
+<button id="but" onClick="combination()">enter</button>
+
+<body>
+	<script>
+	/*
+		var st1="hey";
+		var st2 = "hello";
+		var st3 ="welcom";
+		alert(st1.concat(st2,st3));
+		*/
+		
+		try{
+			function combination()
+			{			
+				console.log("asdasd");
+	
+				var str = new Array();
+				str[0] = document.getElementById("inpu1").value;
+				str[1] = document.getElementById("inpu2").value;
+				str[2] = document.getElementById("inpu3").value;
+				str[3] = document.getElementById("inpu4").value;
+				var result="";
+				for(var i=0;i< str.length;i++)
+				{
+					result = result.concat(str[i]);
+				}
+				console.log(result);
+			}
+		}
+		catch(err)
+		{
+			console.log(err);
+		}
+    </script>
+</body>
+</html>

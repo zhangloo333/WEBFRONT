@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<input type="text" id="tid">
+<!--<script>-->
+
+<!--var p = document.getElementById("tid");-->
+<!--p.onkeypress = function () {-->
+    <!--alert("you are typing");-->
+<!--}-->
+<!--// when typing change color box to yellow-->
+<!--p.onkeypress = function () {-->
+    <!--p.style.backgroundColor = "yellow";-->
+<!--}-->
+<!--</script>-->
+<script>
+   var p = document.getElementById("tid");
+   p.onkeyup = function () {
+       p.style.backgroundColor = "yellow";
+       p.value =p.value.toUpperCase();
+
+   }
+   p.onkeydown = function(){
+       p.style.backgroundColor = "red";
+       p.value =p.value.toUpperCase();
+
+   }
+   p.onkeypress = function () {
+       p.value =p.value.toUpperCase();
+   }
+</script>
+</body>
+</html>

@@ -1,0 +1,113 @@
+@charset "UTF-8";
+/* CSS Document */
+#wrapper{
+	height:1090px;
+	width:80%;
+	background:#000000;
+	margin:100px auto;
+	}
+#container{
+		height:1000px;
+		width:95%;
+		background:rgb(251,210,123);
+		margin:auto;
+		position:relative;
+		top:20px;
+	}
+#left{
+		height:1000px;
+		width:32%;
+		background:rgb(23,12,64);
+	}
+#right-text{
+	height:600px;
+	width:28%;
+	position:relative;
+	top:-1010px;
+	left:32%;
+	margin-top:100px;
+	margin-bottom:50px;
+	}
+#right-word{
+	height:600px;
+	width:32%;
+	position:relative;
+	top:-1660px;
+	float:right;
+	margin-right:64px;
+	margin-bottom:50px;
+	}
+	nav{color:rgb(251,219,108); font-size:15px; line-height:20px; 
+	padding-top:10px;}
+	h3,ul,li{padding-top:20px; list-style:none;}
+#left p{ color: white;
+	position:relative;
+	left:64px;
+	}
+	
+h1{
+	color: rgb(109,179,63);
+	position: relative;
+	top: -1079px;
+	left: 420px;
+	font-size: 90px;
+	font-weight:lighter;	
+	height:50px;
+	width:80%;
+	font-variant:small-caps;
+	}
+#container a{ text-decoration:none;
+	
+	}
+form{
+ 		margin:20px;
+	}
+textarea{
+		height:100px;
+		width:80%;
+		overflow:scroll;
+		overflow-x:hidden;	
+
+	}
+#submit{
+	width:70%;
+	height:20px;
+	background:#959595;
+}
+#right-text p{
+			padding:20px;
+	
+}
+input{
+		width:70%;
+	}
+#name{ position:relative;
+	  	top:10px;
+	}
+#email{
+	position:relative;
+	  	top:10px;
+	}
+#suject{
+	position:relative;
+	  	top:50px;
+	}
+#message{
+	position:relative;
+	  	top:60px;
+	}
+#textarea{
+	position:relative;
+	  	top:60px;
+	}
+#submit{
+	position:relative;
+	  	top:75px;
+	}
+#footer,#footer a{
+  	color:white;
+	text-align:right;
+	padding:25px;
+	font-size:12px;
+	}
+#footer a{padding:0;}

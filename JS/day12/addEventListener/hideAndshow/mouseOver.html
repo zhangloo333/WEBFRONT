@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<div id="div">
+    <img src="350.jpg" id="img1">
+</div>
+<div>
+    <p id="p1">
+        The incident occurred at Spring Valley High School in Columbia when the unnamed student refused to leave class.
+
+        Video shows the officer knocking her down and pulling her across the floor.
+
+        The officer, Ben Fields, has been placed on leave and there has been an outcry from various civil rights and parents' groups.
+
+        Richland County Sheriff Leon Lott, who asked for federal help to investigate, said he wanted to avoid a "conflict of interest".
+
+        The FBI, which will carry out the probe, said in a statement it would "collect all available facts and evidence".
+
+        The South Carolina Law Enforcement Division will assist in the investigation as well
+    </p>
+</div>
+<script>
+    document.getElementById("img1").onmouseover= function () {
+        document.getElementById("img1").style.visibility = "hidden";
+    }
+    document.getElementById("img1").onmouseout= function () {
+        document.getElementById("img1").style.visibility = "visible";
+    }
+
+    var pid = document.getElementById("p1");
+    p1.onmouseover=function(){pid.style.color="red";}
+    p1.onmouseout= function () {pid.style.color="black"}
+</script>
+</body>
+</html>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="result.css">
+</head>
+<body>
+<p id="p1">my test page</p>
+<div>sadasdasdasdasdasdasdasd</div>
+<button id="btn">show</button>
+<button id="btn1">show</button><br/>
+<button id="red">red</button>
+<button id="black">black</button>
+<button id="blue">Blue</button>
+<button id="multiple">Mutiple Change</button>
+
+<p id="result"></p>
+<script src="../jquery-1.11.3.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#btn").on("click",totle);
+        $("#btn1").on("click",showColor);
+        $("#red").on("click", function () {
+            $("#p1").css("background-color","red");
+        });
+        $("#black").on("click", function () {
+            $("#p1").css("background-color","black");
+
+        });
+        $("#blue").on("click", function () {
+            $("#p1").css("background-color","blue");
+
+        });
+        $("#multiple").on("click",MutipleC);
+
+
+
+        //getContent();
+
+    });
+    function totle()
+    {
+        getContent();
+        changeCSS();
+
+    }
+    function getContent()
+    {
+        var p1=$("#p1").html();
+        $("#result").html("Result is :"+p1);
+//        alert(k);
+//        document.write(k);
+//        console.log(k);
+
+    }
+    function changeCSS()
+    {
+        $("#result").css("background","red").hide(1000).show(2000);
+
+
+    }
+
+    function showColor()
+    {
+
+        var pty =[]
+              pty[0] = $("#p1").css("font-size");
+              pty[1] = $("#p1").css("font-family");
+              pty[2] = $("#p1").css("color");
+              pty[3] = $("#p1").css("border");
+              pty[4] = $("#p1").css("height");
+              pty[5] = $("#p1").css("width");
+        for(var i = 0;i<pty.length;i++)
+        {
+            console.log(pty[i]);
+        }
+
+    }
+
+    function changBColor()
+    {
+        $("#p1").css("background-color","red");
+
+    }
+
+    function MutipleC()
+    {
+        $("div").css({"background-color":"black",
+        "font-size":"50px",
+        "font-family":"Arial",
+        "color":"white",
+        "height":"200px",
+        "width":"200px",
+        }).show();
+
+    }
+</script>
+
+</body>
+</html>

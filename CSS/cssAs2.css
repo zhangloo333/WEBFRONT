@@ -1,0 +1,63 @@
+m
+	  }
+hr{ clear:both;
+	height:5px;
+	background: blue;
+	}
+#textfield{
+		height:271;
+		}
+	
+#textfield img{ float:left;
+padding:10px;
+
+	}
+#text{position:relative;
+		left:10px;
+	
+	}
+nav{
+	clear:both;
+	 height:30px;
+	 width:100%;
+	 background:blue;
+	}
+nav ul{
+	clear:both;
+	list-style:none;
+	color:white;
+	background:blue;
+	margin-top:50px;
+
+	}
+nav ul li a{float:left; 
+			margin-right:20px;
+			margin-top:5px;
+			color:white;
+			}
+
+	.ba{
+		border:2px solid green; border-radius:10px;
+		width:28%;
+		height:78%;
+		float:left;
+		margin-left: 4%;
+		margin-top:4%;
+		}
+		
+	span{
+		float:right;
+		margin-right:23px;
+		margin-top:2px;
+		color:black;
+	}
+	.ba h3{ padding-left:10px;}
+	.ba p{padding:10px;font-size:15;}
+	.ba li{padding-left:5px;padding-top:5px;}
+	
+	
+	#aaa{ 
+		width:auto;
+		height:451px;
+		margin-left:10px;
+		margin-top:50px;}

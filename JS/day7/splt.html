@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+<input id="inputBox" style="text"/>
+<input id="spiteBox" style="text"/>
+<br/>
+<button id="spiteBut" onClick="SpiteFuc()">Spite</button>
+<script>
+	function SpiteFuc()
+	{
+		var str = document.getElementById("inputBox").value;
+		var spitor = document.getElementById("spiteBox").value;
+		spitor = "/"+sptior+"/g";
+		var result = str.split(spitor);
+		console.log(result);
+	}
+</script>
+</body>
+</html>

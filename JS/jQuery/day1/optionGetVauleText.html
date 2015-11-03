@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<p>This is a selection</p>
+<select id="sel">
+    <option value="1" id="i1">Indian</option>
+    <option value="2">USA</option>
+    <option value="3">China</option>
+    <option value="4">Rusia</option>
+</select>
+<button id="btn1">Get Text</button>
+<button id="btn2">Get Value</button>
+<button id="btn3">Get Value</button>
+<p id="result"></p>
+<script src="../jquery-1.11.3.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#btn1").on("click", function () {
+
+      var p = $("#sel").val();
+        $("#result").html(p+"<br>");
+
+        })
+
+        $("#btn2").on("click", function () {
+            var q = $("select option:selected").text() ;
+            $("#result").html(q);
+
+        })
+
+    });
+
+
+
+</script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<select id="selt"></select>
+<button id="btn">append Image</button>
+<button id="btn1">showImage</button>
+<!--<img SRC="IMG/150.jpg">-->
+<img id="result" src=""></img>
+<!--<div id="result"></div>-->
+<script src="../jquery-1.11.3.js"></script>
+<script>
+    $(document).ready(function () {
+         imgArry = ['IMG/150.jpg','IMG/350.jpg','IMG/cart.png','IMG/logo.png'];
+
+            $("#btn").click(appendImg);
+            $("#btn1").click(showImage);
+
+    })
+
+    function appendImg()
+    {
+        for(num in imgArry)
+        {
+//            var p ="<img src="+imgArry[num]+"/>";
+//            var test ="<option vaule="+p+">"+num+"</option>";
+//            $("#selt").append(test);
+            console.log(imgArry[num]);
+            $("#selt").append("<option mu="+imgArry[num]+">"+num+"</option>");
+
+
+        }
+
+    }
+
+    function showImage()
+   {
+             var address = $("#selt option:selected").attr("mu");
+//       alert(address);
+      // console.log(address);
+//            alert(address);
+        var dd = address;
+
+        console.log(dd);
+        $("#result").attr("src",dd);
+        console.log($("#result").attr("src",dd));
+
+  }
+</script>
+</body>
+</html>

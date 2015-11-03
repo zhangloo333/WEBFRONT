@@ -1,0 +1,101 @@
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+<h1>Assignment 6</h1>
+<h3>Question1</h3>
+<ol>
+<li>
+<p> Write a program to display 10 quotes (one after the other in sequence). Hint: use Arrays to store the quotes (sayings). Name the function as displayQuotes.</p>
+</li>
+<button onClick="showQ1()">show answer</button>
+<script>
+	var array = ["10","21","34","1212","32","465","83","294","120","22"];
+
+	function displayQuotes(Ary)
+	{
+		for(var num in Ary)
+		{
+			document.write(Ary[num]+"<br>");	
+		}
+		
+	}
+	
+	function showQ1()
+	{
+		displayQuotes(array);
+	}
+</script>
+<h3>Question2</h3>
+<li>
+Create a function that accepts a parameter which is of the type Array and alerts the length of the array as well as the elements one after the other starting from 4th element. Call this function from displayQuotes function that you created in Question 1.
+</li>
+<button onClick="showQ2()">show answer</button>
+<script>
+	var arry1=[1,2,3,4,5,6,6,7,8,9,90];
+    function showType(args)
+    {
+		document.write("type of array is "+typeof args[0]+"<br/>"+"array length= "+args.length+"<br/>"); 
+    	
+    }
+	function showQ2()
+	{
+		showType(arry1);
+		for(var i=4;i<arry1.length;i++)
+		{
+			document.write(arry1[i]+"<br>");	
+
+		}
+	}
+</script>
+<h3>Question3</h3>
+<p>For the above created array, perform the following operations on an array.
+</p>
+    <ol type="a">
+    <li>
+    	pop()
+        <p> arry1=[1,2,3,4,5,6,6,7,8,9,90];</p>
+        <button onClick="popUp()">pop show</button>
+        <p id="result"></p>
+    </li>
+    <script>
+		function popUp()
+		{
+			arry1.pop();
+			document.getElementById("result").innerHTML = arry1;
+		}
+	</script>
+    <li>
+    	Now check the length and print it to console
+    <p>arry1=[1,2,3,4,5,6,6,7,8,9,90];</p>
+    <button onClick="showLength()">show answer</button>
+    <p id="result1"></p>
+    <script>
+		function showLength()
+		{
+			arry1.pop();
+			document.getElementById("result1").innerHTML = arry1;
+			console.log("question3b:arry.length="+arry1.length);
+		}
+		
+	</script>
+    </li>
+    <li>reverse()
+    	<p>arry1=[1,2,3,4,5,6,6,7,8,9,90];</p>
+       <button onClick="showRevers()">show answer</button>
+    	<p id="result2 "></p>
+    
+    
+    </li>
+    <li>now access the 8th array element and print it to console</li>
+    <li>shift()</li>
+    <li> Now check the length and print it to console</li>
+</ol>
+</body>
+</html>

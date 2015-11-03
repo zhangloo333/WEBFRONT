@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<input id="inId">
+<select id="selt"></select><br/>
+<button id="btn">append Image</button>
+<button id="prepend">prepend</button>
+<button id="btn1">showImage</button><br/>
+<!--<img SRC="IMG/150.jpg">-->
+<img id="result" src=""></img>
+<!--<div id="result"></div>-->
+<script src="../jquery-1.11.3.js"></script>
+<script>
+    $(document).ready(function () {
+
+                imgArry = [];
+                $("#btn").click(appendImg);
+                $("#btn1").click(showImage);
+                $("#prepend").click(prependImg);
+
+    });
+
+    function appendImg()
+    {
+        imgArry.push($("#inId").val());
+        console.log(imgArry);
+        $("#selt").append("<option mu="+imgArry[imgArry.length-1]+">"+(imgArry.length-1)+"</option>");
+    }
+    function prependImg()
+    {
+        imgArry.unshift($("#inId").val());
+        $("#selt").prepend("<option mu="+imgArry[imgArry.length-1]+">"+"0"+"</option>");
+
+
+    }
+
+    function showImage()
+    {
+        var address = $("#selt option:selected").attr("mu");
+        $("#result").attr("src",address);
+
+    }
+</script>
+</body>
+</html>

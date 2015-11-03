@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+<p id="text">how are your hello, nice to meet you</p>
+<input type="text" id="txt1">
+<button onClick="chang()">Click</button>
+<p id="resul"></p>
+<script>
+	function chang()
+	{
+		var str = document.getElementById("txt1").value;
+		var str1 = document.getElementById("text").innerHTML;
+		document.getElementById("resul").innerHTML=str1.match(str);
+		
+	}
+
+</script>
+
+</body>
+</html>

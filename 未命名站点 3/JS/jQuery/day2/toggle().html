@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<img id="img" src="../IMG/350.jpg"><br/>
+<button id="sw">Switch</button>
+<script src="../jquery-1.11.3.js"></script>
+<script>
+        $(document).ready(function ()
+        {
+            $("#sw").on("mouseover",swit)
+        });
+
+        function swit()
+        {
+                $("#img").toggle();
+
+        }
+
+</script>
+</body>
+</html>

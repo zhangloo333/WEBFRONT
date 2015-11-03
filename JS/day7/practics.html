@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+<p id="aa">abc becaom alphabatas<p>
+	<input type="text" id="txt1"><br>
+	<button id="relace" onClick="replace()">Replace Case</button>
+    <button id="relace all" onClick="replaceAll()">Replace All</button>
+    <p id="resl"></p>
+	<script>
+		function replace()
+		{
+			var	str1 = document.getElementById("aa").innerHTML;
+			var str = document.getElementById("txt1").value;
+			console.log(str);
+			console.log(str1);
+			//document.getElementById("resl").innerHTML=strOrignal.replace("abc",str);
+		}
+		
+		function replaceAll()
+		{
+			
+		}
+		
+	</script>
+</body>
+</html>

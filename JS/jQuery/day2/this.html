@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<ul>
+<li><input type="radio" value="r1">a</li>
+<li><input type="radio" value="r2">d</li>
+<li><input type="radio" value="r3">c</li>
+<li><input type="radio" value="r4">2</li>
+<li><input type="radio" value="r5">3</li>
+<li><input type="radio" value="r6">f</li>
+</ul>
+
+
+<select id="selt">
+    <option value="one">1</option>
+    <option value="two">3</option>
+    <option value="three">4</option>
+    <option value="four">5</option>
+</select>
+
+
+
+input something:<input type="text" id="tid">
+cid:<input type="checkbox" id="cid">
+<button id="btn">this</button>
+<script src="../jquery-1.11.3.js"></script>
+<script>
+        $(document).ready(function () {
+
+            $("#btn").on("click",alt);
+            $("#selt").change(alt);
+            $("#tid").on("change",alt);
+            $("#cid").on("change",alt);
+
+        });
+
+
+        function alt()
+        {
+            alert($("option:selected").text());
+        }
+</script>
+</body>
+</html>

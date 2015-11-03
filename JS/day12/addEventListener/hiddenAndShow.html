@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<p id="pid">This is a paragraph</p>
+<div id="table" style="visibility: collapse">
+    <tr>
+        <td><p>this is from row 1</p></td>
+    </tr>
+    <tr>
+        <td><p>this is from row 2</p></td>
+    </tr>
+    <tr>
+        <td><p>this is from row 3</p></td>
+    </tr>
+</div>
+<button>hide</button>
+<button>show</button>
+<script>
+        var div = document.getElementById('table');
+        pid = document.getElementById("pid");
+        document.getElementsByTagName('button')[0].onclick= function () {
+            pid.style.visibility='hidden';
+        }
+        document.getElementsByTagName('button')[1].onclick= function () {
+            pid.style.visibility='visible';
+        }
+        pid.onclick=function(){
+            div.style.visibility="collapse";
+        }
+</script>
+</body>
+</html>

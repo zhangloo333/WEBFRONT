@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body,div,img,textarea,a{margin:0;padding:0;}
+#wrapper{
+	height:800px;
+	width:95%;
+	margin:0 auto;
+	background:#D8BC27;
+	}
+#header{ width:100%;
+		height:88px;
+		background:rgb(251,251,251);
+		position:relative;
+	}
+#coverage{
+		position:absolute;
+		left:486px;
+		top:0;
+	}
+#shop{
+		position:absolute;
+		left:323px;
+		top:0;
+	}
+input{
+	position: absolute;
+	left:61%;
+	top:22px;;
+	width:19%;
+	height:32px;
+	border-radius:10px;
+	border:1px solid rgb(226,226,226);
+	column-count:10;
+	grid-rows:1;
+	background-image:url("Searchbox.png");
+	background-size:contain;
+	text-align:center;
+	
+	}
+#myicon{
+	position:absolute;
+	left:96%;
+	top:18%;
+	}
+#store{
+	position:absolute;
+	right:10%;
+	top:18%;
+	}
+#cart{
+position:absolute;
+	right:5%;
+	top:18%;
+	}
+#left{
+		width:50%;
+		height:712px;
+		float:left;
+	}
+#right{
+			width:50%;
+			height:712px;
+		   background:#9F6;
+		   float:right;			
+	}
+#right h1{
+			width:75%;
+			color:rgb(227,0,116);
+			font-size:539%;
+			font-family:Verdana,Helvetica,sans-serif;
+			margin:10% auto;
+			margin-top:110px;;

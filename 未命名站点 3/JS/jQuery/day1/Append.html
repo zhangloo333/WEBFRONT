@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<p>This is a selection</p>
+<div id="div1">this is line one</div>
+<select id="sel">
+    <option value="1" id="i1">Indian</option>
+    <option value="2">USA</option>
+    <option value="3">China</option>
+    <option value="4">Rusia</option>
+</select>
+<button id="btn3">add &ltoptional&gt</button>
+<button id="btn4">add value</button>
+
+<button id ="showCt">show</button>
+<button id ="addTop">addTop</button>
+<button id ="addBottom">addBottom</button>
+
+
+<p id="result"></p>
+<script src="../jquery-1.11.3.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#btn3").on("click", function () {
+
+            $("#sel").append("<option value='5'>England</option>");
+        });
+
+        $("#btn4").on("click", function () {
+
+            $("#div1").prepend("adding line 2 before div");
+        });
+
+        $("#addTop").on("click", function () {
+            $("#sel").prepend("<option value='6'>German</option>");
+            $("#sel").prepend("<option value='7'>Swiwn</option>");
+            $("#sel").prepend("<option value='8'>Japen</option>");
+        });
+
+        $("#addBottom").on("click", function () {
+            $("#sel").append("<option value='-1'>timeland</option>");
+            $("#sel").append("<option value='-2'>timeland</option>");
+            $("#sel").append("<option value='-3'>timeland</option>");
+        });
+
+        $("#showCt").on("click", function () {
+          var p =  $("#sel option:selected").text();
+
+          var q =  $("#sel option:selected").val();
+            $("#result").html(p+":"+q);
+        });
+
+
+
+
+
+
+    });
+
+
+
+</script>
+</body>
+</html>

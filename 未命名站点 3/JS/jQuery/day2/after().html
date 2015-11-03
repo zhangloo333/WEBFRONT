@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<p id="p1">paragraph</p>
+<script src="../jquery-1.11.3.js"></script>
+<script>
+    /*after is create new tag out of orignal one
+    * append is create new tag within origna one*/
+    $("#p1").after("<p id='p2'> paragraph2</p>");
+    $("#p1").before("<p id='p3'> paragraph3</p>");
+</script>
+</body>
+</html>

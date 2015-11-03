@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<select id="selt">
+</select>
+<button id="btn">append to list</button>
+<script src="../jquery-1.11.3.js"></script>
+<script>
+        $(document).ready(function () {
+            var fruit =["apple","mango","pipapple"];
+            $("#btn").click(function () {
+                for(num in fruit)
+                {
+                    $("#selt").append("<option value='+num+'>"+fruit[num]+"</option>")
+                }
+            });
+
+
+
+
+        });
+
+</script>
+</body>
+</html>

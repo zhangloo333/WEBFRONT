@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<p class="first">hello world</p>
+<p class="first">hello world</p>
+<p class="first">hello world</p>
+<p class="first">hello world</p>
+<p class="first">hello world</p>
+
+<br/>
+<br/>
+<br/>
+<div class="second">div1</div>
+<div class="second">div2</div>
+<div class="second">div3</div>
+<div class="second">div4</div>
+<div class="second">div5</div>
+<button>chane color of paragraph</button>
+<button>chane color of div</button>
+<button>show button background color</button>
+<script>
+
+        document.getElementsByTagName("button")[0].onclick = function () {
+
+            var pclass = document.getElementsByClassName("first");
+            for(var i=0;i<pclass.length;i++)
+            {
+                pclass[i].style.color="red";
+
+            }
+        }
+        document.getElementsByTagName("button")[1].onclick= function () {
+        var divclass = document.getElementsByClassName("second");
+        for(var i=0;i<divclass.length;i++)
+        {
+            divclass[i].style.background="rgb(255,17,255)";
+
+        }
+    }
+        document.getElementsByTagName("button")[2].onclick= function () {
+       var x = document.getElementsByTagName("button");
+        x[0].style.background = "red";
+     x[1].style.background = "rgb(255,17,255)";
+
+
+    }
+</script>
+</body>
+</html>

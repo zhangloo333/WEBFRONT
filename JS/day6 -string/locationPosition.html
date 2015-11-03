@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+<p>Text:<input type="text" id="txt"/></p>
+<p>Search:<input type="text" id="ser"/></p>
+<p>Index: <input tyeo="text" id="index"/></p>
+<button onClick="position1()">index of</button>
+<button onClick="position2()">last index of</button>
+<button onClick="letter()">show letter</button>
+<h1 id="showBox"></h1>
+<script>
+	function position1()
+	{
+		var p=document.getElementById("txt").value;
+		var q=document.getElementById("ser").value;
+		var res = p.indexOf(q);
+		document.getElementById("showBox").innerHTML=res;
+	}
+	
+	function position2()
+	{
+		var p=document.getElementById("txt").value;
+		var q=document.getElementById("ser").value;
+		var res1 = p.lastIndexOf(q);
+		document.getElementById("showBox").innerHTML=res1;					
+	}
+	function letter()
+	{
+		var p=document.getElementById("txt").value;
+		var q=parseInt(document.getElementById("index").value);
+		var res2 = p.charAt(q);
+		document.getElementById("showBox").innerHTML=res2;					
+
+	}
+
+</script>
+</body>
+</html>

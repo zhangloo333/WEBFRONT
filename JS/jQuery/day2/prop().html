@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+Fruit:<br>
+<ul>
+    <li><input type="checkbox" class="Fruit" id="aid" value="apple"> apple</li>
+    <li><input type="checkbox" class="Fruit" id="mid" value="mango"> mango<br/></li>
+    <li><input type="checkbox" class="Fruit" id="pid" value="piapple"> piapple</li>
+    <li><input type="checkbox" class="Fruit" id="oid" value="orange"> orange</li>
+</ul>
+<br/>
+gender:<br/>
+<input type="radio" name="gender" class="gender" id="g1">male<br/>
+<input type="radio" name="gender" class="gender" id="g2">female<br/>
+<input type="radio" name="gender" class="gender" id="g3">male<br/>
+<input type="radio" name="gender" class="gender" id="g4">female<br/>
+<input type="radio" name="gender" class="gender" id="g5">male<br/>
+<input type="radio" name="gender" class="gender" id="g6">female<br/>
+<input type="radio" name="gender" class="gender" id="g7">male<br/>
+<input type="radio" name="gender" class="gender" id="g8">female<br/>
+
+
+
+<button id="btn">one</button>
+<button id="btn1">select all</button>
+<button id="btn2">cancel all</button>
+
+<script src="../jquery-1.11.3.js"></script>
+<script>
+    $("#btn").on("click", function () {
+
+       $(".Fruit").prop("checked",false);
+       $("#mid").prop("checked",true);
+       $("#pid").prop("checked",false);
+       $("#oid").prop("checked",true);
+
+       $("#malid").prop("checked",true);
+       $("#felid").prop("checked",false);
+
+    });
+
+    $("#btn1").on("click",selectAll);
+    $("#btn2").on("click",cancelAll);
+
+
+    function selectAll()
+    {
+        $(".gender").prop("checked",true);
+        $(".Fruit").prop("checked",true);
+
+    }
+
+    function cancelAll()
+    {
+        $(".Fruit").prop("checked",false);
+        $(".gender").prop("checked",false);
+
+    }
+</script>
+</body>
+</html>

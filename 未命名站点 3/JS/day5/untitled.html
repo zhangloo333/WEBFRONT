@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<p>Value of a:<input type="text" id="num1"></p>
+<p>Value of b:<input type="text" id="num2"></p>
+<button onClick="add()">Addition</button>
+<button onClick="sub()">Subtraction</button>
+<button onClick="mult()">Multiplication</button>
+<button onClick="div()">Division</button>
+<p>Equal to:<textarea  id="output" rows="1" cols="1"></textarea></p>
+
+<script>
+function add(){
+	var a = parseInt(document.getElementById("num1").value);
+	var b = parseInt(document.getElementById("num2").value);
+	var c = a+b;
+	document.getElementById("output").innerHTML = c;
+}
+function sub(){
+	var a = parseInt(document.getElementById("num1").value);
+	var b = parseInt(document.getElementById("num2").value);
+	var c = a-b;
+	alert(c);
+}
+function mult(){
+	var a = parseInt(document.getElementById("num1").value);
+	var b = parseInt(document.getElementById("num2").value);
+	var c = a*b;
+	console.log(c);
+}
+function div(){
+	var a = parseInt(document.getElementById("num1").value);
+	var b = parseInt(document.getElementById("num2").value);
+	var c = a/b;
+	document.getElementById("output").innerHTML = c;
+}
+</script>
+</body>
+</html>

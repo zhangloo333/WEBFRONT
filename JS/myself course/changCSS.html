@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+<link rel="stylesheet" type="text/css" href="changCSS.css">
+</head>
+
+<body>
+<h1>change the div test</h1>
+<div id="test">
+hello
+</div>
+<button onClick="changColor()">Button</button>
+
+<script>
+try{
+	function changColor()
+	{
+		document.getElementById("test").style.background="blue";
+			
+	}
+}
+catch(err)
+{
+	aler(err);
+	}
+</script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<p id="p2">this is begin</p>
+Input Content:<input id="inId" type="text"><br/>
+<button id="appBtn">append</button>
+<script src="../jquery-1.11.3.js"></script>
+<script>
+ $(document).ready(function () {
+
+     $("#appBtn").on("click",appenText);
+ });
+
+    function appenText()
+    {
+        var ct = $("#inId").val();
+        $("#p2").after("<p>"+ct+"/p");
+        $("#p2").hide("slow",function(){
+            alert("Animation Done.");
+        });
+    }
+</script>
+</body>
+</html>

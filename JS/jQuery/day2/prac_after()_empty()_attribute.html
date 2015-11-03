@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<p id="pid">this is first</p>
+<select id="selt">
+    <option>one</option>
+    <option>two</option>
+    <option>three</option>
+    <option>four</option>
+</select>
+<button id="btnpd">append</button>
+<p id="add"></p>
+<script src="../jquery-1.11.3.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#btnpd").on("click",addBtn);
+
+    });
+
+    function addBtn()
+    {
+        $("#btnpd").after("<button id='remove'>remove</button>");
+        $("#btnpd").after("<br/><button id='empty'>empty</button> ");
+        $("#remove").on("click",remove);
+        $("#empty").on("click",emt);
+    }
+
+    function emt()
+    {
+        $("#selt").empty();
+    }
+    function remove()
+    {
+
+        $("#selt").remove();
+
+    }
+</script>
+</body>
+</html>

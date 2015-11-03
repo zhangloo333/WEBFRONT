@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<div id="image" style="visibility: hidden;">
+    <img src="../../../../IMG/anoceanofsky.jpg">
+</div>
+<button id="show">show</button>
+<button id="hide">hide</button>
+<script>
+    var imageStyle = document.getElementById('image').style;
+    document.getElementById('show').onclick= function () {
+        imageStyle.visibility='visible';
+    }
+    document.getElementById('hide').onclick=function(){
+        imageStyle.visibility='hidden';
+    }
+</script>
+</body>
+</html>
