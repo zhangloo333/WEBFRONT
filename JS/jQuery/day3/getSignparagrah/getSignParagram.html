@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="getSignParagram.css">
+
+</head>
+<body>
+    <ul>
+        <li>a</li>
+        <li>b</li>
+        <li>c</li>
+        <li>d</li>
+        <li>e</li>
+    </ul>
+    <button id="btn">show</button>
+    <p>this is first</p>
+    <p>this is second</p>
+    <p>this is third</p>
+    <p>this is fourd</p>
+
+
+<button id="btn2">show2</button>
+<button id="btn3">show3</button>
+
+<script src="../../jquery-1.11.3.js"></script>
+<script>
+$("#btn").on("click", function () {
+//    var p = $("li").eq(1).text();
+//    alert(p);
+
+//    $("li").eq("1").addClass("bg");
+    $("li").eq(1).css({"color" : "red","font-size": "100px"});
+
+
+})
+
+
+ $("#btn2").on("click", function () {
+
+             $("p").eq(1).css("font-family", "Helvetica");
+             $("p").eq(2).css("font-size", "100px");
+             $("p").eq(3).css("color", "blue");
+             $("p").eq(4).css("background", "red")
+         }
+     )
+
+
+$("#btn3").on("click", function () {
+
+            $("p").eq(2).css({"font-size", "100px");
+            $("p").eq(3).css("color", "blue");
+            $("p").eq(4).css("background", "red")
+        }
+)
+
+
+</script>
+</body>
+</html>

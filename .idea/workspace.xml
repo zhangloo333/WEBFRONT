@@ -1,7 +1,342 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09648e73-6fed-458a-b5d0-acd69faa6bfe" name="Default" comment="" />
+    <list default="true" id="09648e73-6fed-458a-b5d0-acd69faa6bfe" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/.idea/dictionaries/lei.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/.idea/未命名站点 3.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/CSS/AnOceanof Sky.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/CSS/CSSPositions.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/CSS/Untitled-8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/CSS/contactUs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/CSS/cssAs2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/CSS/cssPA.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/CSS/test111.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/HTML/AnOceanof Sky.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/HTML/contactUS.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/HTML/contactUS2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/HTML/css position.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/HTML/cssAs2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/HTML/cssPA.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/HTML/linkOtherSite/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/HTML/linkOtherSite/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/HTML/test111.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/HTML/test222.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/350.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/Cart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/Logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/Reference.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/Searchbox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/Store.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/Tmobil logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/anoceanofsky.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/content_back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/coveragelogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/footer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/layout.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/mainBody.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/myicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/pushbuttons-reduced.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/screenshot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/shoplogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/spacer.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/IMG/tab.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/JS.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/assignment/assignment 13-10.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/assignment/assignment 4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/assignment/assignmet6array.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/assignment/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day10/deleteBeforIndex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day10/giveIndextoprint.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day10/oneToTewent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day10/practics shift.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day10/practisea.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day10/testBug_addlisener.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day10/teste.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day10/textBug.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day11/DOM/dom_chang attribuite/dom_changAttribuit.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day11/DOM/dom_chang attribuite/dom_changAttribuit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day11/DOM/dom_chang attribuite/dom_changeAttribuit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day11/DOM/dom_changParagraph/dom_changParagraph.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day11/DOM/dom_changParagraph/dom_changParagraph.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day11/DOM/dom_changParagraph/dom_changParagraph.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day11/DOM/practise1/changePagraphInner.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day11/DOM/practise1/changePagraphfram.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day11/external js/buildExternal.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day11/external js/buildExternalJS.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day11/external js/buildExternalJS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day11/external js/buildExternal_show.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day11/globle variable/galobal vaariable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day11/globle variable/galobal vaariable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/NameSamePwAlert or chang name.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/TagName.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/TagName.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/addEventListener.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/chang color.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/documentgElementByTagName.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/dotshowResult.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/hiddenAndShow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/hideAndshow/350.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/hideAndshow/anoceanofsky.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/hideAndshow/hiddenImage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/hideAndshow/keyBord.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/hideAndshow/mouseOver.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/hideAndshow/onChange.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/hideAndshow/showHidereplace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/hideAndshow/slickImage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/hideAndshow/twoImageShowAndHind.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/hideAndshow/visibility.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/onclickShow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day12/addEventListener/tagNamePtage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day13/globe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day13/globeAndLocal/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day13/globeAndLocal/gloab.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day13/globeAndLocal/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day3/pra1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day4/number.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day4/swith.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day4/throw question.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day5/HTMLconectJs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day5/StringLenth.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day5/button4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day5/checkCapital.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day5/checkString.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day5/task1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day5/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day5/test2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day5/untitled.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day6 -string/charAt.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day6 -string/check_sting_null.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day6 -string/concast.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day6 -string/indexof.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day6 -string/locationLetter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day6 -string/locationPosition.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day6 -string/prime.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day6 -string/rewrite_assignform.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day6 -string/untitled.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day7/match.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day7/practics.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day7/practies1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day7/replace.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day7/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day7/splt.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day8/join.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day8/pop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day8/practice_charAt.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day8/practice_match.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day8/practise_length.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day8/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day8/typeof.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day9/arraybaicComand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/day9/for_sort_reverse_ndex_join.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/350.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/Cart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/Logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/Reference.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/Searchbox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/Store.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/Tmobil logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/anoceanofsky.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/content_back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/coveragelogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/footer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/layout.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/mainBody.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/myicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/pushbuttons-reduced.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/screenshot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/shoplogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/spacer.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/IMG/tab.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/Append.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/350.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/Cart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/Logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/Reference.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/Searchbox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/Store.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/Tmobil logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/anoceanofsky.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/content_back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/coveragelogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/footer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/layout.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/mainBody.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/myicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/pushbuttons-reduced.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/screenshot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/shoplogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/spacer.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/IMG/tab.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/Jquery1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/Jquery1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/Logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/array_trunStingToArray.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/getImageFromDS.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/getValueFromInput.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/optionGetVauleText.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/result.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day1/useTest().html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day2/NewArrayImagelist.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day2/after().html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day2/after_appendPractics.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day2/attribute.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day2/empty().html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day2/prac_after()_empty()_attribute.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day2/prop().html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day2/this.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/day2/toggle().html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/demo1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/jquery-1.11.3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/jQuery/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/js_day2/ass2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/js_day2/javascripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/js_day2/jsAss1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/js_day2/jsDayTwoP.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/js_day2/pra2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/js_day2/pra3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/js_day2/pra4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/Object.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/chang img .html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/changCSS.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/changCSS.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/42.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/44.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/46.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/47.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/48.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/49.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/51.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/52.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/53.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/54.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/55.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/56.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/57.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/58.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/59.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/60.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/61.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/62.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/63.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/64.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/65.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/66.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/67.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/68.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/70.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/71.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/72.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/73.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/74.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/75.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/76.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/77.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/78.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/79.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/80.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/81.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/82.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/83.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/84.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/85.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/86.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/87.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/88.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/89.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/90.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/91.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/92.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/94.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/95.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/96.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/97.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/SmallImgLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/kuang.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/kuang2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/layerclose.hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/left_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/list.dragover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/right_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/JS/myself course/google Picture wall/images/smallImgRight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/Tmobile/Body.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/Tmobile/Cart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/Tmobile/Reference.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/Tmobile/Searchbox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/Tmobile/Store.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/Tmobile/Tmobil logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/Tmobile/Tmobil.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/Tmobile/Tmobile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/Tmobile/coveragelogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/Tmobile/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/Tmobile/mainBody.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/未命名站点 3/Tmobile/shoplogo.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="未命名站点 3.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,101 +356,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Jquery1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/Jquery1.html">
+      <file leaf-file-name="inputHoverAndFoucus.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS/jQuery/day3/.hover&amp;.focus/inputHoverAndFoucus.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="result.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/result.css">
+      <file leaf-file-name="slidDown3000.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS/jQuery/day3/slipUp&amp;SlidDown/slidDown3000.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="result.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/result.html">
+      <file leaf-file-name="Toggle.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS/jQuery/day3/slipUp&amp;SlidDown/Toggle.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="useTest().html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/useTest().html">
+      <file leaf-file-name="callBackFunction.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS/jQuery/day3/slipUp&amp;SlidDown/callBackFunction.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.34982333">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Append.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/Append.html">
+      <file leaf-file-name="fade.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS/jQuery/day3/.fadeIn&amp;.fadeOut&amp;.Fade.toggle/fade.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+            <state vertical-scroll-proportion="-4.03125">
+              <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="prop().html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS/jQuery/day2/prop().html">
+      <file leaf-file-name="imgeSlidUP.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS/jQuery/day3/slipUp&amp;SlidDown/imgeSlidUP.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="getValueFromInput.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/getValueFromInput.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="this.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JS/jQuery/day2/this.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8058968">
-              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="array_trunStingToArray.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/array_trunStingToArray.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="optionGetVauleText.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/optionGetVauleText.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="47" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="47" />
+              <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -132,21 +427,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JS/day11/DOM/dom_changParagraph/dom_changParagraph.css" />
-        <option value="$PROJECT_DIR$/JS/day11/DOM/dom_changParagraph/dom_changParagraph.html" />
-        <option value="$PROJECT_DIR$/JS/day11/DOM/dom_changParagraph/dom_changParagraph.js" />
-        <option value="$PROJECT_DIR$/JS/day11/DOM/practise1/1.html" />
-        <option value="$PROJECT_DIR$/JS/day11/DOM/practise1/changPagraphInner.html.js" />
-        <option value="$PROJECT_DIR$/JS/day11/DOM/practise1/changePagraphInner.html" />
-        <option value="$PROJECT_DIR$/JS/day11/DOM/practise1/changePagraphfram.js" />
-        <option value="$PROJECT_DIR$/JS/day12/addEventListener/addEventListener.html" />
-        <option value="$PROJECT_DIR$/JS/day12/addEventListener/NameSamePwAlert or chang name.js" />
-        <option value="$PROJECT_DIR$/JS/day12/addEventListener/onclickShow.html" />
-        <option value="$PROJECT_DIR$/JS/day12/addEventListener/dotshowResult.js" />
-        <option value="$PROJECT_DIR$/JS/day12/addEventListener/documentgElementByTagName.html" />
         <option value="$PROJECT_DIR$/JS/day12/addEventListener/tagNamePtage.html" />
         <option value="$PROJECT_DIR$/JS/day12/addEventListener/changColor.js" />
         <option value="$PROJECT_DIR$/JS/day12/addEventListener/chang color.html" />
@@ -186,6 +472,18 @@
         <option value="$PROJECT_DIR$/JS/jQuery/day2/prac_after()_empty()_attribute.html" />
         <option value="$PROJECT_DIR$/JS/jQuery/day2/prop().html" />
         <option value="$PROJECT_DIR$/JS/jQuery/day2/this.html" />
+        <option value="$PROJECT_DIR$/JS/jQuery/day3/backgroundColor.html" />
+        <option value="$PROJECT_DIR$/JS/jQuery/day3/backgroundColor.css" />
+        <option value="$PROJECT_DIR$/JS/jQuery/day3/getSignparagrah/getSignParagram.css" />
+        <option value="$PROJECT_DIR$/JS/jQuery/day3/getSignparagrah/getSignParagram.html" />
+        <option value="$PROJECT_DIR$/JS/jQuery/day3/event haddleing/eventHaddle.html" />
+        <option value="$PROJECT_DIR$/JS/jQuery/day3/.hover&amp;.focus/hover&amp;Fouse.html" />
+        <option value="$PROJECT_DIR$/JS/jQuery/day3/slipUp&amp;SlidDown/imgeSlidUP.html" />
+        <option value="$PROJECT_DIR$/JS/jQuery/day3/.hover&amp;.focus/inputHoverAndFoucus.html" />
+        <option value="$PROJECT_DIR$/JS/jQuery/day3/slipUp&amp;SlidDown/slidDown3000.html" />
+        <option value="$PROJECT_DIR$/JS/jQuery/day3/slipUp&amp;SlidDown/Toggle.html" />
+        <option value="$PROJECT_DIR$/JS/jQuery/day3/slipUp&amp;SlidDown/callBackFunction.html" />
+        <option value="$PROJECT_DIR$/JS/jQuery/day3/.fadeIn&amp;.fadeOut&amp;.Fade.toggle/fade.html" />
       </list>
     </option>
   </component>
@@ -197,8 +495,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="44" />
+    <option name="y" value="55" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -218,7 +516,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -242,7 +540,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -257,12 +554,177 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="WEBFRONT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="未命名站点 3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEBFRONT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="未命名站点 3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEBFRONT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jQuery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="未命名站点 3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEBFRONT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jQuery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IMG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="未命名站点 3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEBFRONT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jQuery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="未命名站点 3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEBFRONT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jQuery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slipUp&amp;SlidDown" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="未命名站点 3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEBFRONT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jQuery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".fadeIn&amp;.fadeOut&amp;.Fade.toggle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="未命名站点 3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEBFRONT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jQuery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="未命名站点 3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEBFRONT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,6 +736,7 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -287,7 +750,10 @@
       <recent name="D:\未命名站点 3\JS\day12\addEventListener\hideAndshow" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.eventHaddle.html">
+    <configuration default="false" name="eventHaddle.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/未命名站点 3/JS/jQuery/day3/event haddleing/eventHaddle.html">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -326,6 +792,14 @@
       <envs />
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.eventHaddle.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.eventHaddle.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -350,17 +824,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="44" y="55" width="1382" height="744" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23645681" sideWeight="0.49348533" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23585598" sideWeight="0.49348533" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.254717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2539936" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24032739" sideWeight="0.50651467" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -369,11 +842,12 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23003195" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -383,13 +857,13 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2539936" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23585598" sideWeight="0.49348533" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24032739" sideWeight="0.50651467" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -406,88 +880,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JS/day12/addEventListener/dotshowResult.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/day12/addEventListener/onclickShow.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.447369">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/day12/addEventListener/TagName.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.8157895">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/day12/addEventListener/documentgElementByTagName.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.2894735">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/day12/addEventListener/tagNamePtage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.868421">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/day12/addEventListener/chang color.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-33.57895">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IMG/150.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IMG/tab.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IMG/Store.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IMG/shoplogo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IMG/myicon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IMG/layout.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IMG/content_back.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IMG/anoceanofsky.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -611,37 +1008,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/Jquery1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/Logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/getImageFromDS.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="17.842106">
-          <caret line="14" column="76" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/jQuery/day2/toggle().html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.8659794">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/jQuery/day2/attribute.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0526314">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/jQuery/day2/prac_after()_empty()_attribute.html">
@@ -655,13 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33743408">
           <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/jQuery/day2/after_appendPractics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.89806676">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -683,47 +1045,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/Jquery1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/getValueFromInput.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/result.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.095823094">
           <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/array_trunStingToArray.html">
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/result.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/Append.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.4715262">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -731,30 +1066,179 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/result.css">
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/Append.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.32186732">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/optionGetVauleText.html">
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/getValueFromInput.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="47" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="47" />
-          <folding />
+        <state vertical-scroll-proportion="0.26535627">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/jQuery/day2/this.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8058968">
+        <state vertical-scroll-proportion="0.6609337">
           <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/array_trunStingToArray.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20884521">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/optionGetVauleText.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03931204">
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/contactUS2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16953316">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/Jquery1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15384616">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/Jquery1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20318021">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day3/backgroundColor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0">
+          <caret line="9" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day3/getSignparagrah/getSignParagram.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7386364">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day3/event haddleing/eventHaddle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.46875">
+          <caret line="46" column="79" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day1/getImageFromDS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.90625">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day2/attribute.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44699648">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day2/after_appendPractics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7473498">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day3/backgroundColor.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.115384616">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day3/getSignparagrah/getSignParagram.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03846154">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day2/toggle().html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5689046">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day3/.hover&amp;.focus/hover&amp;Fouse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26855123">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="30" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day3/.hover&amp;.focus/inputHoverAndFoucus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day3/slipUp&amp;SlidDown/Toggle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day3/slipUp&amp;SlidDown/slidDown3000.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day3/slipUp&amp;SlidDown/imgeSlidUP.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day3/.fadeIn&amp;.fadeOut&amp;.Fade.toggle/fade.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.03125">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/jQuery/day3/slipUp&amp;SlidDown/callBackFunction.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34982333">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding />
         </state>
       </provider>

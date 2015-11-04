@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<div id="imf">
+<img src="../../IMG/Cart.png" >
+
+</div>
+<button id="btn">slide down 3000</button>
+<script src="../../jquery-1.11.3.js"></script>
+<script>
+    $("#btn").on("click", slidDown1);
+
+    function slidDown1()
+    {
+        $("#imf").slideUp(3000);
+        $("#imf").slideDown(3000);
+    }
+
+</script>
+</body>
+</html>

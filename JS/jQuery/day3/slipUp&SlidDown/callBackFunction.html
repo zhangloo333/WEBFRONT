@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    <div id="did">
+        <img src="../../IMG/Cart.png">
+    </div>
+    <button>show</button>
+<script src="../../jquery-1.11.3.js"></script>
+<script>
+    $("button").on("click",demo);
+
+
+    function demo()
+    {
+        $("#did").slideUp(1000, function () {
+            alert("sild up finish");
+        })
+
+    }
+
+</script>
+
+</body>
+</html>

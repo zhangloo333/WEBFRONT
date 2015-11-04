@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<div id="did">
+    <img src="../../IMG/Cart.png">
+</div>
+<button id="btn1">show</button>
+<button id="btn2">fadeOut1</button>
+<button id="btn3">fadeToggle1</button>
+<button id="btn4">fadeTO1</button>
+
+<script src="../../jquery-1.11.3.js"></script>
+<script>
+    $("#btn1").on("click",demo);
+    $("#btn2").on("click",fadeOut1);
+    $("#btn3").on("click",fadeToggle1);
+    $("#btn4").on("click",fadeTO1);
+
+
+    function demo()
+    {
+        $("#did").fadeIn("slow", function () {
+            alert("sild up finish");
+        })
+
+    }
+
+    function fadeOut1()
+    {
+        $("#did").fadeOut("fast", function () {
+            alert("sild up finish");
+        })
+    }
+
+    function fadeToggle1()
+    {
+        $("#did").fadeToggle(1000, function () {
+            alert("sild up finish");
+        })
+    }
+
+    function fadeTO1()
+    {
+        $("#did").fadeTo(100,0.4);
+
+    }
+
+</script>
+
+</body>
+</html>

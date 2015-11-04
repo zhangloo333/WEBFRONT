@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    <div id="slid">
+        <img src="../../IMG/Logo.png">
+    </div>
+    <input type="text" id="txt"><br/><br/>
+    <button id="btn1">slid up</button>
+    <button id="btn2">slid down</button>
+    <button id="btn3">slid taggle</button>
+<script src="../../jquery-1.11.3.js"></script>
+<script>
+
+        $("#btn1").on("click",slidUp1);
+        $("#btn2").on("click",slidDown1);
+        $("#btn3").on("click",slidToggle);
+
+
+        function slidUp1()
+        {
+           console.log($("txt").value);
+
+
+            $("#slid").slideUp();
+        }
+
+        function slidDown1()
+        {
+            $("#slid").slideDown();
+        }
+
+        function slidToggle()
+        {
+            $("#slid").slideToggle();
+        }
+
+</script>
+</body>
+</html>

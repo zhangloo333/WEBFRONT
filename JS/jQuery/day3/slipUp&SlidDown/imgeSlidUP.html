@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        div{width:100px;
+            height: 100px;
+            background-color:blue;}
+    </style>
+</head>
+<body>
+<div>this is is div</div>
+<img src="../../img/logo.png">
+<button id="btn">slid Down</button>
+<button id="btn0">hide</button>
+<button id="btn1">slow</button>
+<button id="btn2">fast</button>
+<button id="btn3">1000</button>
+
+<script src="../../jquery-1.11.3.js"></script>
+<script>
+    $("#btn").on("click", function () {
+        $("img").slideUp("slow");
+    })
+
+    $("#btn0").on("click", function () {
+        $("div").hide();
+    })
+
+    $("#btn1").on("click", function () {
+        $("div").slideUp("slow");
+    })
+
+    $("#btn2").on("click", function () {
+        $("div").slideUp("fast");
+    })
+
+    $("#btn3").on("click", function () {
+        $("div").slideUp(2000);
+    })
+
+</script>
+</body>
+</html>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<>
+        <div id="div2">
+        <img src="../../IMG/150.jpg">
+        </div>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+<div id="div1">
+input<input type="text" id="input">
+</div>
+
+
+<script src="../../jquery-1.11.3.js"></script>
+<script>
+    $(document).ready(function () {
+
+        $("div2").on({
+                    mouseenter : function () {
+                        $("img").attr("src", "../../IMG/350.jpg");
+
+                    },
+                    mouseleave: function () {
+
+                        $("img").attr("src", "../../IMG/Cart.png");
+
+                    },
+
+                });
+
+            $("#div1").on(
+                    {
+                        mouseenter: function () {
+                            var src = $("#input");
+                            src.val(src.val().toUpperCase());
+//                            $("#input").val($("#input").val().toUpperCase());
+                        },
+                        mouseleave: function (){
+                            $("#input").val($("#input").val().toLowerCase())
+                        }
+                    }
+            );
+
+
+    });
+
+
+</script>
+</body>
+</html>

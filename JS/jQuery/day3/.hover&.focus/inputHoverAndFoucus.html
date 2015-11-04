@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<div id="x1">
+<input type="text" id="txt1">
+</div><br/>
+<input type="text" id="txt2">
+
+<script src="../../jquery-1.11.3.js"></script>
+<script>
+
+
+        $("#txt1").on({
+            keypress:focusF(),
+        });
+
+
+        function focusF()
+        {
+            var str = $("txt1").val();
+            console.log(str);
+
+
+        }
+
+
+
+
+</script>
+</body>
+</html>

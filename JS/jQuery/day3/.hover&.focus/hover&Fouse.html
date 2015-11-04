@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<input type="text" id="inid">
+<input type="text" id="in2">
+<script src="../../jquery-1.11.3.js"></script>
+<script>
+    $(document).ready(function () {
+
+//        $("#inid").hover(function(){
+//            alert('hoverd');
+//        });
+
+        $("#inid").focus(function(){
+            //alert('asda');
+        });
+
+    });
+
+</script>
+<script>
+        var src =  $("#in2");
+
+
+        src.hover(function () {
+            src.css("backgroundColor","yellow");
+        });
+
+        src.focus(function () {
+            src.val('abc');
+        });
+
+        src.blur(function () {
+            src.val(src.val().toUpperCase());
+
+        })
+
+
+</script>
+</body>
+</html>
